@@ -1,4 +1,4 @@
-print("Hello Synerdgy!")
+print("Hello Synerdgy")
 print("Не понятно")
 
 def f1():
